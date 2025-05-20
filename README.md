@@ -14,6 +14,6 @@ Publisher - Darien
 
 DataRepository - Harini 
 
-ChatHandler – for exchanging player messages - Darien
+ChatHandler – for exchanging player messages - Harini
 
-ScoreDecorator – for adding dynamic decorations (e.g., emojis, banners, fireworks) based on the score - Harini 
+ScoreDecorator – for adding dynamic decorations (e.g., emojis, banners, fireworks) based on the score - Daniel
