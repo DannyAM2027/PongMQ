@@ -6,7 +6,7 @@ Field - Daniel M
 
 Fans - Daniel M
 
-Game - Harini 
+Game Pong Main and PongPanel - Harini 
 
 Subscriber - Darien
 
